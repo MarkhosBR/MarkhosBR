@@ -9,9 +9,6 @@ Soy **estudiante de Ingeniería en TI** enfocado en crear soluciones digitales f
 
 ### 📁 Proyectos
 * **Sistema de Gestión de Préstamos (Kotlin/Java):** App de gestión de deudas con sincronización en la nube y notificaciones automáticas de cobro.
-* **Bot Organizador de Medios (Python):** Automatización de flujos de trabajo para fotos/videos usando la API de Telegram y almacenamiento la nube.
-* **Reproductor de Medios Personalizado:** Reproductor optimizado con lógica de segundo plano e integración de APIs externas de youtube.
-
 
 📫 **¿Cómo contactarme?**
 Correo: Markhosbarreto@gmail.com
@@ -29,8 +26,6 @@ I am an **Information Technology Engineering student** focused on building funct
 
 ### 📁 Projects
 * **Lending Management System (Kotlin/Java):** Debt management app featuring cloud synchronization and automated payment notifications.
-* **Media Organizer Bot (Python):** Workflow automation for photos and videos using Telegram API and cloud storage.
-* **Custom Media Player:** Optimized player with background logic and integration with external YouTube APIs.
 
 📫 **How to reach me:**
 Email: Markhosbarreto@gmail.com
